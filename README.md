@@ -60,4 +60,7 @@ Batas Administrasi yang meliputi :
 - Papua Barat Daya: Sorong
 
 ## SUMBER DATA:
-https://batas-admin.geoit.dev/
+- https://batas-admin.geoit.dev/
+
+## Notes
+- Gunakan https://geojson.io/#map=2/0/20 untuk trial data json geometry
